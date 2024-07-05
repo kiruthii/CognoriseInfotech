@@ -1,5 +1,7 @@
 # CognoriseInfotech
 python development internship
+
+
 **Task 1: Calculator App**  
 
 Developed a GUI-based calculator using `tkinter`.
