@@ -70,15 +70,16 @@ To run any of the projects, follow these steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-repo-link.git
-   ```sh
+
+   
 2.Navigate to the project directory:
   ```sh
   cd project-directory
-```sh
+
 3.Run the desired script:
   ```sh
   python script_name.py
-```sh
+
 
 **Requirements**
 Python 3.x
