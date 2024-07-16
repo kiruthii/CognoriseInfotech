@@ -76,27 +76,3 @@ To run any of the projects, follow these steps:
   ```sh
   cd project-directory
 
-3.Run the desired script:
-  ```sh
-  python script_name.py
-
-
-**Requirements**
-Python 3.x
-tkinter (for GUI-based applications)
-
-**Contributing**
-Contributions are welcome! To contribute, follow these steps:
-
-Fork the repository.
-Create a new branch (git checkout -b feature/your-feature).
-Make your changes and commit them (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/your-feature).
-Open a pull request.
-
-**License**
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-**Contact**
-For any questions or suggestions, feel free to contact me at kiruthikaganesan757@gmail.com.
-
